@@ -33,3 +33,5 @@ UPDATE ogp_users SET users_passwd=MD5('NEW_PASSWORD')
 WHERE ogp_users.users_login='OGP_USERNAME';
 ```
 After this type `quit` to exit the MySQL prompt.
+
+ping
